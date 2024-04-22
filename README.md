@@ -1,4 +1,5 @@
 [![Semantic Release](https://github.com/SSI-Securities-Corporation/python-fcdata/actions/workflows/publish.yaml/badge.svg)](https://github.com/SSI-Securities-Corporation/python-fcdata/actions/workflows/publish.yaml)
+
 # Installation
 #### From tar ball (most stable)
 If you download file [fc-data.py.zip](https://github.com/SSI-Securities-Corporation/python-fcdata/releases/latest/download/fc-data.py.zip), we include tarball file:
